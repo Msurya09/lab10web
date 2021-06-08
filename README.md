@@ -24,6 +24,7 @@ Hasil Ketika di buka menggunakan link di sammping http://localhost/lab10_php_oop
 Coding form.php ini untuk Class
 
 ![gambar6](screenshoot/6.png)
+
 ![gambar7](screenshoot/7.png)
 
 #### 5. Buat file baru dengan nama form_input.php pada folder c:\xampp\htdocs\lab10_php_oop
